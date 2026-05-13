@@ -7,7 +7,7 @@ A microcontroller-based digital IC tester PCB designed using KiCad and Arduino N
 ## Features
 
 - Arduino Nano based
-- DIP-16 IC test socket
+- DIP-14 IC test socket
 - Good/Bad LED indication
 - Buzzer alert
 - LCD interface
